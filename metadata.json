@@ -1,0 +1,6 @@
+{
+  "name": "Call Reply Assistant",
+  "description": "Automated helper that replies to incoming phone calls, SMS, and WhatsApp messages with intelligent responses powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
